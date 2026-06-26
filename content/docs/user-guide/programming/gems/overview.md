@@ -48,7 +48,7 @@ class ExampleModule
         ExampleModule()
             : AZ::Module()
         {
-	}
+        }
 };
 
 AZ_DECLARE_MODULE_CLASS(Gem_Example, Example)
